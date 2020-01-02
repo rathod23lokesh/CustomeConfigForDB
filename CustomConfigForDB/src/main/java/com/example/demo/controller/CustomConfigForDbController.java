@@ -15,7 +15,7 @@ public class CustomConfigForDbController {
 	public String test()
 	{
 		CustomConfigForDbService.getData();
-		return "Service is on!!";
+		return "Service is on now!!";
 	}
 
 }
